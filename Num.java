@@ -32,10 +32,10 @@ public class Num
     //-----------------------------------------------------------------
     //  Returns the stored integer value as a string.
     //-----------------------------------------------------------------
-	 /*
+    /*
     public String toString()
     {
         return value + "";
     }
-	 */
+    */
 }
